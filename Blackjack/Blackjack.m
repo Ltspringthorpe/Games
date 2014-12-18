@@ -16,22 +16,22 @@ while Money > 0;
     end
     
     %The Initial Deal
-    You(1) = 1 %Deck(i);
+    You(1) = Deck(i);
     i = i + 1;
     if i == 53
         [Deck i]= Shuffle;
     end
-    Rupert(1) = 1 %Deck(i);
+    Rupert(1) = Deck(i);
     i = i + 1;
     if i == 53
         [Deck i]= Shuffle;
     end
-    You(2) = 10 %Deck(i);
+    You(2) = Deck(i);
     i = i + 1;
     if i == 53
         [Deck i]= Shuffle;
     end
-    Rupert(2) = 10 %Deck(i);
+    Rupert(2) = Deck(i);
     i = i + 1;
     if i == 53
         [Deck i]= Shuffle;
