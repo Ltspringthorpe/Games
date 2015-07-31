@@ -158,4 +158,4 @@ end
 UserGrid = 0*rand(9);
 TotalGrid = UserGrid + ComputerGrid;
     
-magichappens(UserGrid,ComputerGrid,AnswerGrid)
+EditGUI(UserGrid,ComputerGrid,AnswerGrid)
