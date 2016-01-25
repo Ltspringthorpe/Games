@@ -1,4 +1,4 @@
 I'm currently working on a GUI for my original Sudoku program.
-It's needs stylization, but the core functionality is working!
+It's needs stylization and refactoring, but the core functionality is working!
 
 Run: SudokuGUI.m
